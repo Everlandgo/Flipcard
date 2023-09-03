@@ -1,1 +1,0 @@
-export const worknikkey ='62a40n8vzog0yc9xvwr8i6is2i7vcdb2qec29q590vq5d8wcj';
